@@ -60,10 +60,10 @@ The story maps the eSports landscape while exploring trends such as:
 - China's dominance in eSports genres and earnings
 - StarCraft 2 tournament hotspots worldwide
 
-<video width="320" height="240" controls>
-  <source src="Story.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+https://github.com/Siddhant2901/E-Sports_Dynamic_Dashboard/assets/75361891/408914c4-bc42-45f5-aa7d-53cfcdb869c5
+
+
 
 ## Suggestions and Conclusion 🚀
 
