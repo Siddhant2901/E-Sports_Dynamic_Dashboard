@@ -1,6 +1,7 @@
 # E-Sports Dynamic Dashboard 🎮📊
 
-![Dashboard 1](Dashboard1 .png) ![Dashboard 2](Dashboard2.png)
+![Dashboard1](https://github.com/Siddhant2901/E-Sports_Dynamic_Dashboard/assets/75361891/79904bc2-57d4-49dc-862b-df45f5308707)
+ ![Dashboard 2](Dashboard2.png)
 
 ## Introduction
 
@@ -42,7 +43,8 @@ The dashboards and stories answer the following questions:
 
 This dashboard showcases key performance indicators, the highest played game in eSports, distribution of gaming genres, top teams with highest prizes won, and a map illustrating the number of teams participating from each region.
 
-![Dashboard 1](Dashboard1 .png)
+![Dashboard1](https://github.com/Siddhant2901/E-Sports_Dynamic_Dashboard/assets/75361891/3d9663d5-e227-4862-9182-7c7f27b7b58c)
+
 
 ### Dashboard 2: External Factors Analysis
 
