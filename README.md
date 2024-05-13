@@ -1,7 +1,5 @@
 # E-Sports Dynamic Dashboard 🎮📊
 
-![Dashboard1](https://github.com/Siddhant2901/E-Sports_Dynamic_Dashboard/assets/75361891/79904bc2-57d4-49dc-862b-df45f5308707)
- ![Dashboard 2](Dashboard2.png)
 
 ## Introduction
 
