@@ -1,6 +1,6 @@
 # E-Sports Dynamic Dashboard 🎮📊
 
-![Dashboard 1](Dashboard1.png) ![Dashboard 2](Dashboard2.png)
+![Dashboard 1](Dashboard1 .png) ![Dashboard 2](Dashboard2.png)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The dashboards and stories answer the following questions:
 
 This dashboard showcases key performance indicators, the highest played game in eSports, distribution of gaming genres, top teams with highest prizes won, and a map illustrating the number of teams participating from each region.
 
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](Dashboard1 .png)
 
 ### Dashboard 2: External Factors Analysis
 
@@ -60,7 +60,10 @@ The story maps the eSports landscape while exploring trends such as:
 - China's dominance in eSports genres and earnings
 - StarCraft 2 tournament hotspots worldwide
 
-![Story-Telling](Story.mp4)
+<video width="320" height="240" controls>
+  <source src="Story.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ## Suggestions and Conclusion 🚀
 
