@@ -1,4 +1,5 @@
 # E-Sports Dynamic Dashboard 🎮📊
+![compet_esport](https://github.com/Siddhant2901/E-Sports_Dynamic_Dashboard/assets/75361891/db79e63b-401f-4c13-84c8-f0946aafa5c9)
 
 
 ## Introduction
